@@ -4,8 +4,7 @@
     "eslint:recommended",
     "prettier",
     "next/core-web-vitals",
-    "next",
-    "plugin:storybook/recommended"
+    "next"
   ],
   "plugins": ["prettier"],
   "rules": {
