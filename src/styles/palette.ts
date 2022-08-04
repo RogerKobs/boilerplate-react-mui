@@ -1,15 +1,27 @@
 import { Palette } from '@mui/material'
 
 export const palette = {
-  primary: {},
+  primary: {
+    main: '#000',
+  },
 
-  secondary: {},
+  secondary: {
+    main: '#000',
+  },
 
-  success: {},
+  success: {
+    main: '#000',
+  },
 
-  error: {},
+  error: {
+    main: '#000',
+  },
 
-  warning: {},
+  warning: {
+    main: '#000',
+  },
 
-  info: {},
+  info: {
+    main: '#000',
+  },
 } as Palette
